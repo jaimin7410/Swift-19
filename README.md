@@ -1,5 +1,9 @@
 # Swift-19
 - iOS College Project-1
+- Use class as object
+- Calculate Age using Dadtapicker
+- Sorting/ color as per priority level
+
 
 - Enter (Name / Birth Date / Travel toggle) / Display Details
 ![2020-05-21 00 53 26](https://user-images.githubusercontent.com/31506459/82598256-5bfe6180-9b78-11ea-83b1-7bc1b6db808f.png)
