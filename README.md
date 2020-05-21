@@ -14,4 +14,5 @@
 
 
 - To Delete data using alert controller
-![Simulator Screen Shot - iPhone Xs Max - 2020-05-21 at 15 57 21](https://user-images.githubusercontent.com/31506459/82600487-fdd37d80-9b7b-11ea-8fdb-5f7970ce30ff.png)
+![IMG_1982](https://user-images.githubusercontent.com/31506459/82601003-d4672180-9b7c-11ea-97b4-3165d44c9775.PNG)
+
